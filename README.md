@@ -23,7 +23,7 @@
 
 ### Блок-схема
 
-[Ссылка на блок-схему]()
+[Ссылка на блок-схему](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&dark=auto#R%3Cmxfile%3E%3Cdiagram%20name%3D%22%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0-1%22%20id%3D%22MRa68XCcG7Xl5ODcYUcD%22%3E7Vhdb5swFP0tfUDaHjaZrwCPSZqtm1apUqTt2Qsu0BnMjNMk%2FfW7jk3A0OZrNOpDJeTg4%2Btr%2B9x77BjLnebrrxyX6S2LCbUcFK8t99pyHNuzPfiRyEYhQegrIOFZrI0aYJ49EQ0ijS6zmFSGoWCMiqw0wQUrCrIQBoY5ZyvT7J5Rc9QSJ6QHzBeY9tFfWSxShYZO0OA3JEvSemR7FKmWHNfGeiVVimO2akHuzHKnnDGh3vL1lFBJXs2L6vflhdbdxDgpxDEdfl4%2F%2FLnhXuizaV7%2BvS3dp%2B%2FoU6i8kLjHQuNWQxVb8gXZ46u2E5uaPOl2rquMi5QlrMB01qATzpZFTOQMEdQamx%2BMlQDaAD4QITY6MfBSMIBSkVPdqlMC84SIPXNzld0jpks9t10EIHUJy4ngGzDghGKRPZpkYJ1Dyc6uoRleNNMnsL6H5BZ5lEKSS5JWaSbIvMRb9legM5MCSKySfCsqEIpBSnuxQG90LcsJssAkDOp3KCfbcqY7ES7IujWnPkdpK98DndyrRhs20pj24vq6rneAEL0Sq84JudyiuYjHcp%2BA2oLiqsoWJrtmhg6cbm0qa5qeTcEWv%2F4e%2FvQIdyyDBTcRiKLPvhEDu%2BtEiVv3a28iB105bseVIqfnahvS3dLPj7J7TFC3koBXsMKUEsoSjnMIX0l4BhMgvNt21zScLrf7bE3qo%2Btl%2BQFN07rpNJHZ9jMqizoqQwfCMpjMvIvJ7M3Kx%2FXOlI%2BHzL3Qcy4rHv%2BYUPGU5b%2BX1SAHz4exJZcI4yLZIkGJSxrgGeFculRlr4omRt8r3fOjRIOpfBzU8X91tvdmZvv8%2F8%2F8jRHO2AV2B2crmd3OWev4B%2FJrsF1g9L4LBGigXSDo%2FiV65V0gOCZUb%2BwI5XAJvNTZ2YvHYKqJ3lUTRgOpJgouq5o6kS58axvr25ks1Q3O397gRmfJ4Yz7Wo%2FnI9QA1ebDhgpA83nInf0D%3C%2Fdiagram%3E%3C%2Fmxfile%3E)
 ## 2. Реализация программы
 Программа написана на языке **C++**.
 
